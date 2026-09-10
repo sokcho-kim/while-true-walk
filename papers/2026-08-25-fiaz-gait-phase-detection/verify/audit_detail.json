@@ -1,0 +1,18 @@
+{
+ "rows_by_direction": {
+  "B": 3571461,
+  "F": 3006365
+ },
+ "walking_rows_by_direction": {
+  "B": 1525588,
+  "F": 1401437
+ },
+ "files_with_events_by_subject_dir": {
+  "HP114_B": 1,
+  "HP115_F": 20,
+  "HP116_F": 11,
+  "HP117_F": 22,
+  "UP112_B": 12,
+  "UP112_F": 21
+ }
+}

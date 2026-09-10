@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="AppleSDGothicNeo-Regular, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+  <rect width="900" height="560" fill="#ffffff"/>
+
+  <!-- 오른발 발바닥 (밑에서 본 모습) -->
+  <g>
+    <path d="M 205 480
+             C 130 480 118 420 125 370
+             C 131 328 152 300 158 255
+             C 163 215 152 175 165 130
+             C 178 85 215 55 265 52
+             C 320 49 355 85 362 135
+             C 367 172 360 205 352 250
+             C 345 292 350 330 356 372
+             C 363 424 342 480 270 480
+             C 248 484 227 484 205 480 Z"
+          fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+    <!-- 발가락들 -->
+    <ellipse cx="178" cy="98" rx="26" ry="34" fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+    <ellipse cx="232" cy="66" rx="17" ry="22" fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+    <ellipse cx="277" cy="58" rx="15" ry="20" fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+    <ellipse cx="318" cy="66" rx="14" ry="18" fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+    <ellipse cx="352" cy="84" rx="12" ry="16" fill="#f6e7d8" stroke="#c9a88a" stroke-width="3"/>
+  </g>
+
+  <!-- 발끝(전족부): 스위치 + FlexiForce -->
+  <rect x="200" y="130" width="110" height="72" rx="14" fill="#7fb3e3" fill-opacity="0.55" stroke="#2c6fb0" stroke-width="3"/>
+  <circle cx="255" cy="166" r="17" fill="#1f4e79"/>
+  <circle cx="255" cy="166" r="7" fill="#ffffff"/>
+
+  <!-- 중간: 스위치만 -->
+  <circle cx="245" cy="300" r="17" fill="#1f4e79"/>
+  <circle cx="245" cy="300" r="7" fill="#ffffff"/>
+
+  <!-- 뒤꿈치: 스위치 + FlexiForce -->
+  <rect x="185" y="385" width="110" height="72" rx="14" fill="#7fb3e3" fill-opacity="0.55" stroke="#2c6fb0" stroke-width="3"/>
+  <circle cx="240" cy="421" r="17" fill="#1f4e79"/>
+  <circle cx="240" cy="421" r="7" fill="#ffffff"/>
+
+  <!-- 라벨: 발끝 -->
+  <line x1="310" y1="160" x2="430" y2="130" stroke="#555555" stroke-width="2"/>
+  <text x="440" y="120" font-size="24" font-weight="bold" fill="#1a1a1a">발끝 (toe)</text>
+  <text x="440" y="150" font-size="20" fill="#333333">● 스위치 + ▬ FlexiForce</text>
+  <text x="440" y="178" font-size="19" fill="#2c6fb0">TO(발끝 떼기) 담당 · 1→0 순간</text>
+
+  <!-- 라벨: 중간 -->
+  <line x1="262" y1="302" x2="430" y2="285" stroke="#555555" stroke-width="2"/>
+  <text x="440" y="278" font-size="24" font-weight="bold" fill="#1a1a1a">중간 (mid)</text>
+  <text x="440" y="308" font-size="20" fill="#333333">● 스위치만</text>
+  <text x="440" y="334" font-size="19" fill="#333333">발바닥 전체 접지 확인</text>
+
+  <!-- 라벨: 뒤꿈치 -->
+  <line x1="295" y1="418" x2="430" y2="418" stroke="#555555" stroke-width="2"/>
+  <text x="440" y="410" font-size="24" font-weight="bold" fill="#1a1a1a">뒤꿈치 (heel)</text>
+  <text x="440" y="440" font-size="20" fill="#333333">● 스위치 + ▬ FlexiForce</text>
+  <text x="440" y="468" font-size="19" fill="#2c6fb0">HS(뒤꿈치 닿음) 담당 · 0→1 순간</text>
+
+  <!-- 범례 -->
+  <g>
+    <rect x="645" y="190" width="240" height="122" rx="10" fill="#f4f6f8" stroke="#cccccc" stroke-width="1.5"/>
+    <circle cx="668" cy="218" r="12" fill="#1f4e79"/>
+    <circle cx="668" cy="218" r="5" fill="#ffffff"/>
+    <text x="688" y="224" font-size="17" fill="#1a1a1a">발 스위치 — 이진 0/1</text>
+    <rect x="656" y="244" width="24" height="16" rx="5" fill="#7fb3e3" fill-opacity="0.55" stroke="#2c6fb0" stroke-width="2"/>
+    <text x="688" y="258" font-size="17" fill="#1a1a1a">FlexiForce — 연속값</text>
+    <text x="656" y="294" font-size="15" fill="#666666">겹쳐 부착 = "버튼과 저울"</text>
+  </g>
+
+  <!-- 제목/출처 -->
+  <text x="40" y="38" font-size="26" font-weight="bold" fill="#1a1a1a">발바닥 센서 배치 — 오른발, 밑에서 본 모습</text>
+  <text x="40" y="536" font-size="16" fill="#888888">재구성 도식 (원본 그림 아님) · Zafar 데이터셋 설명서의 heel/mid/toe 구성 기준</text>
+</svg>

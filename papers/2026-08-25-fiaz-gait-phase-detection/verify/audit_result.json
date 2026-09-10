@@ -1,0 +1,50 @@
+{
+ "files_total": 288,
+ "files_with_event_data": 86,
+ "total_rows_all_modes": 6575528,
+ "mode_counts": {
+  "-1": 934,
+  "S": 800497,
+  "SitToStand": 620196,
+  "LW": 1361320,
+  "SA": 439569,
+  "BW": 582636,
+  "RD": 786431,
+  "SD": 441052,
+  "SW": 763620,
+  "RA": 779273
+ },
+ "walking_LW_RA_RD_rows": 2927024,
+ "event_col_nonzero_counts": {
+  "R_HC": 953,
+  "R_HC_trig": 953,
+  "R_TO": 782,
+  "R_TO_trig": 782,
+  "L_HC": 898,
+  "L_HC_trig": 898,
+  "L_TO": 936,
+  "L_TO_trig": 936
+ },
+ "sample_R_HC_trigger_values": [
+  "2321",
+  "2321",
+  "2321",
+  "2331",
+  "3331",
+  "3341",
+  "4341",
+  "4341",
+  "4351",
+  "5351",
+  "5351",
+  "5351"
+ ],
+ "per_subject_LW_RA_RD": {
+  "HP112": 636694,
+  "HP114": 573766,
+  "HP115": 441909,
+  "HP116": 426703,
+  "HP117": 486358,
+  "UP112": 361594
+ }
+}
