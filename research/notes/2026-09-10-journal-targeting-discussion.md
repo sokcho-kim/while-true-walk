@@ -50,9 +50,7 @@
 
 ## 다음 리서치 태스크
 
-- [ ] TNSRE/JNER/T-MRB/Gait & Posture 최근 3~5년 `lower-limb wearable / gait assistance /
-  exoskeleton / gait rehabilitation` 논문 10~20편 수집 → 연구질문/대상자/장치/데이터/
-  모델/endpoint/validation 비교표 → **모티브 논문 후보 선정** (reading-list 확장)
-- [ ] note.md 한계에 healthy-dominant cohort 비판 한 줄 보강
+- [x] 모티브 논문 후보 1차 10편 수집 완료 → [[2026-09-10-motive-paper-survey]] (⚠ 5편 서지 검증 남음)
+- [x] note.md 한계에 healthy-dominant cohort 비판 보강 완료
 - [ ] 랩장과 논의: 학회(현행) vs 저널(TNSRE 1순위) 조준, 그리고 endpoint를
   engineering에서 biomechanical/clinical로 올리는 로드맵
