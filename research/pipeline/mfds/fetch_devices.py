@@ -40,7 +40,7 @@ def call(params: dict) -> dict:
 def items_of(data: dict):
     """응답 구조 {header, body:{items:[{item:{...}}] | [...]}} 방어적 파싱."""
     body = data.get("body") or data.get("response", {}).get("body") or {}
-    items = body.get("items") or []
+    items = body.get("items") or []  # 0건이면 items 키 자체가 없음
     if isinstance(items, dict):
         items = items.get("item") or []
     if isinstance(items, dict):
@@ -56,7 +56,7 @@ def fetch_keyword(key: str, keyword: str, extra: dict, max_pages: int):
     rows, page = [], 1
     while page <= max_pages:
         params = {"serviceKey": key, "type": "json", "numOfRows": NUM_ROWS,
-                  "pageNo": page, "item_name": keyword, **extra}
+                  "pageNo": page, "PRDLST_NM": keyword, **extra}
         data = call(params)
         items, total = items_of(data)
         rows.extend(items)
@@ -72,7 +72,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--keywords", nargs="*", default=DEFAULT_KEYWORDS)
     ap.add_argument("--param", action="append", default=[],
-                    help="추가 파라미터 k=v (예: entp_name=엔젤로보틱스)")
+                    help="추가 파라미터 k=v (필드명 대문자, 예: MDEQ_CLSF_NO=A26...)")
     ap.add_argument("--max-pages", type=int, default=50)
     ap.add_argument("--probe", action="store_true", help="1건 호출로 키·스펙 확인")
     args = ap.parse_args()
