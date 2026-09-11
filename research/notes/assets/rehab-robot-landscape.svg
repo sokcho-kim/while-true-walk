@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="AppleSDGothicNeo-Regular, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="1280" height="720" fill="#fcfcfb"/>
+<text x="60" y="52" font-size="30" font-weight="bold" fill="#0b0b0b">국내 재활로봇 허가 지형 2007–2025</text>
+<text x="60" y="84" font-size="17" fill="#52514e">식약처 품목분류 A67080.01 「로봇보조정형용운동장치」 — 국내 허가 전수 32건</text>
+<text x="60" y="122" font-size="15" fill="#52514e">총 <tspan font-weight="bold" fill="#0b0b0b">32건</tspan> · 전부 3등급 '허가' 품목 · 국산 <tspan font-weight="bold" fill="#2a78d6">20</tspan> vs 수입 <tspan font-weight="bold" fill="#eb6834">12</tspan> · 일본서 보험수가 받은 Cyberdyne HAL은 국내 허가 이력 없음</text>
+<rect x="1020" y="140" width="14" height="14" rx="3" fill="#2a78d6"/>
+<text x="1040" y="152" font-size="14" fill="#0b0b0b">국산 (제조 허가)</text>
+<rect x="1140" y="140" width="14" height="14" rx="3" fill="#eb6834"/>
+<text x="1160" y="152" font-size="14" fill="#0b0b0b">수입 허가</text>
+<rect x="104.5" y="505.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="119.5" y="569" font-size="13" fill="#52514e" text-anchor="middle">07</text>
+<text x="178.4" y="569" font-size="13" fill="#52514e" text-anchor="middle">08</text>
+<text x="237.4" y="569" font-size="13" fill="#52514e" text-anchor="middle">09</text>
+<text x="296.3" y="569" font-size="13" fill="#52514e" text-anchor="middle">10</text>
+<rect x="340.3" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="340.3" y="462.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="355.3" y="569" font-size="13" fill="#52514e" text-anchor="middle">11</text>
+<rect x="399.2" y="505.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="414.2" y="569" font-size="13" fill="#52514e" text-anchor="middle">12</text>
+<rect x="458.2" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="458.2" y="462.0" width="30" height="40" rx="0" fill="#eb6834"/>
+<rect x="458.2" y="419.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="473.2" y="569" font-size="13" fill="#52514e" text-anchor="middle">13</text>
+<rect x="517.1" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="517.1" y="462.0" width="30" height="40" rx="0" fill="#eb6834"/>
+<rect x="517.1" y="419.0" width="30" height="40" rx="0" fill="#eb6834"/>
+<rect x="517.1" y="376.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="532.1" y="569" font-size="13" fill="#52514e" text-anchor="middle">14</text>
+<rect x="576.1" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="576.1" y="462.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="576.1" y="419.0" width="30" height="40" rx="0" fill="#eb6834"/>
+<rect x="576.1" y="376.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="591.1" y="569" font-size="13" fill="#52514e" text-anchor="middle">15</text>
+<text x="650.0" y="569" font-size="13" fill="#52514e" text-anchor="middle">16</text>
+<rect x="693.9" y="505.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="708.9" y="569" font-size="13" fill="#52514e" text-anchor="middle">17</text>
+<rect x="752.9" y="505.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="767.9" y="569" font-size="13" fill="#52514e" text-anchor="middle">18</text>
+<text x="826.8" y="569" font-size="13" fill="#52514e" text-anchor="middle">19</text>
+<rect x="870.8" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="870.8" y="462.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="885.8" y="569" font-size="13" fill="#52514e" text-anchor="middle">20</text>
+<rect x="929.7" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="929.7" y="462.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="929.7" y="419.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="944.7" y="569" font-size="13" fill="#52514e" text-anchor="middle">21</text>
+<rect x="988.7" y="505.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="1003.7" y="569" font-size="13" fill="#52514e" text-anchor="middle">22</text>
+<rect x="1047.6" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1047.6" y="462.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1047.6" y="419.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="1062.6" y="569" font-size="13" fill="#52514e" text-anchor="middle">23</text>
+<rect x="1106.6" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1106.6" y="462.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1106.6" y="419.0" width="30" height="40" rx="4" fill="#eb6834"/>
+<text x="1121.6" y="569" font-size="13" fill="#52514e" text-anchor="middle">24</text>
+<rect x="1165.5" y="505.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1165.5" y="462.0" width="30" height="40" rx="0" fill="#2a78d6"/>
+<rect x="1165.5" y="419.0" width="30" height="40" rx="4" fill="#2a78d6"/>
+<text x="1180.5" y="569" font-size="13" fill="#52514e" text-anchor="middle">25</text>
+<line x1="80" y1="545" x2="1210" y2="545" stroke="#d8d7d0" stroke-width="1.5"/>
+<line x1="119.5" y1="499" x2="119.5" y2="443" stroke="#b9b8ae" stroke-width="1.5"/>
+<text x="125.5" y="435" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Lokomat Pro — 국내 최초 (수입)</text>
+<line x1="355.3" y1="456" x2="355.3" y2="408" stroke="#b9b8ae" stroke-width="1.5"/>
+<text x="355.3" y="400" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="middle">Walkbot — 국산 최초</text>
+<line x1="1003.7" y1="499" x2="1003.7" y2="218" stroke="#b9b8ae" stroke-width="1.5"/>
+<text x="997.7" y="210" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">엔젤렉스 M20</text>
+<line x1="1062.6" y1="413" x2="1062.6" y2="360" stroke="#b9b8ae" stroke-width="1.5"/>
+<text x="1056.6" y="352" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">코스모 EAPS010*</text>
+<line x1="1180.5" y1="413" x2="1180.5" y2="308" stroke="#b9b8ae" stroke-width="1.5"/>
+<text x="1174.5" y="300" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">현대 sMEX-A-24 · 코스모 EBPS010*</text>
+<text x="60" y="610" font-size="13" fill="#8a897f">* 코스모로보틱스(구 엑소아틀레트아시아) 제품 추정 — 형명 대조 검증 중. 초기(2007–17)는 수입 위주, 2021년 이후 신규 11건 중 10건이 국산.</text>
+<text x="60" y="668" font-size="13" fill="#8a897f">출처: 식품의약품안전처 의료기기 품목허가 정보 (공공데이터포털 OpenAPI) · 수집 2026-09-10 전수 213,333건 중 분류 필터 · WalkAI LAB · 김지민</text>
+</svg>
