@@ -66,9 +66,9 @@
 <line x1="1003.7" y1="499" x2="1003.7" y2="218" stroke="#b9b8ae" stroke-width="1.5"/>
 <text x="997.7" y="210" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">엔젤렉스 M20</text>
 <line x1="1062.6" y1="413" x2="1062.6" y2="360" stroke="#b9b8ae" stroke-width="1.5"/>
-<text x="1056.6" y="352" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">코스모 EAPS010*</text>
+<text x="1056.6" y="352" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">코스모 EAPS010</text>
 <line x1="1180.5" y1="413" x2="1180.5" y2="308" stroke="#b9b8ae" stroke-width="1.5"/>
-<text x="1174.5" y="300" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">현대 sMEX-A-24 · 코스모 EBPS010*</text>
-<text x="60" y="610" font-size="13" fill="#8a897f">* 코스모로보틱스(구 엑소아틀레트아시아) 제품 추정 — 형명 대조 검증 중. 초기(2007–17)는 수입 위주, 2021년 이후 신규 11건 중 10건이 국산.</text>
+<text x="1174.5" y="300" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">현대 sMEX-A-24 · 코스모 EBPS010</text>
+<text x="60" y="610" font-size="13" fill="#8a897f">EAPS010·EBPS010 = 코스모로보틱스(주) — 의료기기안심책방 허가번호 조회로 확인(2026-09-11). 초기(2007–17)는 수입 위주, 2021년 이후 신규 11건 중 10건이 국산.</text>
 <text x="60" y="668" font-size="13" fill="#8a897f">출처: 식품의약품안전처 의료기기 품목허가 정보 (공공데이터포털 OpenAPI) · 수집 2026-09-10 전수 213,333건 중 분류 필터 · WalkAI LAB · 김지민</text>
 </svg>
