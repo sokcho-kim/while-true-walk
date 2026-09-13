@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="AppleSDGothicNeo-Regular, 'Apple SD Gothic Neo', sans-serif">
+<rect width="1280" height="720" fill="#fcfcfb"/>
+<text x="60" y="52" font-size="30" font-weight="bold" fill="#0b0b0b">재활로봇은 아직 니치다 — 이웃 품목과의 규모 비교</text>
+<text x="60" y="84" font-size="17" fill="#52514e">정형용 운동장치 계열 + 보행분석계 국내 허가·신고 건수 (품목명 기준, 2026-09 수집)</text>
+<text x="60" y="122" font-size="15" fill="#52514e">전통 재활기구(수동식 511건) 대비 로봇보조는 <tspan font-weight="bold" fill="#2a78d6">32건</tspan> — 그러나 유일하게 전 건이 3등급 '허가'인 고규제·고부가 품목</text>
+<text x="416" y="227.0" font-size="16" fill="#0b0b0b" text-anchor="end">수동식 정형용 운동장치 (CPM 등)</text>
+<rect x="430" y="200" width="737.0192307692307" height="44" rx="4" fill="#c9c8c0"/>
+<text x="1177.0192307692307" y="228.0" font-size="16" font-weight="bold" fill="#52514e">511건</text>
+<text x="416" y="305.0" font-size="16" fill="#0b0b0b" text-anchor="end">전동식 정형용 운동장치</text>
+<rect x="430" y="278" width="287.0192307692308" height="44" rx="4" fill="#c9c8c0"/>
+<text x="727.0192307692307" y="306.0" font-size="16" font-weight="bold" fill="#52514e">199건</text>
+<text x="416" y="383.0" font-size="16" fill="#0b0b0b" text-anchor="end">보행분석계 (측정장비)</text>
+<rect x="430" y="356" width="190.3846153846154" height="44" rx="4" fill="#c9c8c0"/>
+<text x="630.3846153846154" y="384.0" font-size="16" font-weight="bold" fill="#52514e">132건</text>
+<text x="416" y="461.0" font-size="16" fill="#0b0b0b" text-anchor="end">정형용 운동장치 (구분 없음)</text>
+<rect x="430" y="434" width="103.84615384615384" height="44" rx="4" fill="#c9c8c0"/>
+<text x="543.8461538461538" y="462.0" font-size="16" font-weight="bold" fill="#52514e">72건</text>
+<text x="416" y="539.0" font-size="16" fill="#0b0b0b" text-anchor="end">로봇보조 정형용 운동장치 — 재활로봇</text>
+<rect x="430" y="512" width="46.15384615384615" height="44" rx="4" fill="#2a78d6"/>
+<text x="486.15384615384613" y="540.0" font-size="16" font-weight="bold" fill="#2a78d6">32건</text>
+<line x1="430" y1="186" x2="430" y2="570" stroke="#d8d7d0" stroke-width="1.5"/>
+<text x="60" y="660" font-size="13" fill="#8a897f">건수는 키워드 수집(2,504건) 기반 분류 집계 — 수동식·전동식은 신고 품목 포함, 로봇보조(A67080)만 전 건 3등급 허가.</text>
+<text x="60" y="684" font-size="13" fill="#8a897f">출처: 식품의약품안전처 의료기기 품목허가 정보 (공공데이터포털 OpenAPI) · WalkAI LAB · 김지민</text>
+</svg>
