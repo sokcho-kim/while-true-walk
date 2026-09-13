@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="AppleSDGothicNeo-Regular, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
 <rect width="1280" height="720" fill="#fcfcfb"/>
-<text x="60" y="52" font-size="30" font-weight="bold" fill="#0b0b0b">국내 재활로봇 허가 지형 2007–2025</text>
+<text x="60" y="52" font-size="30" font-weight="bold" fill="#0b0b0b">국내 재활로봇 허가 추이 2007–2025</text>
 <text x="60" y="84" font-size="17" fill="#52514e">식약처 품목분류 A67080.01 「로봇보조정형용운동장치」 — 국내 허가 전수 32건</text>
 <text x="60" y="122" font-size="15" fill="#52514e">총 <tspan font-weight="bold" fill="#0b0b0b">32건</tspan> · 전부 3등급 '허가' 품목 · 국산 <tspan font-weight="bold" fill="#2a78d6">20</tspan> vs 수입 <tspan font-weight="bold" fill="#eb6834">12</tspan> · 일본서 보험수가 받은 Cyberdyne HAL은 국내 허가 이력 없음</text>
-<rect x="1020" y="140" width="14" height="14" rx="3" fill="#2a78d6"/>
-<text x="1040" y="152" font-size="14" fill="#0b0b0b">국산 (제조 허가)</text>
-<rect x="1140" y="140" width="14" height="14" rx="3" fill="#eb6834"/>
-<text x="1160" y="152" font-size="14" fill="#0b0b0b">수입 허가</text>
+<rect x="900" y="140" width="14" height="14" rx="3" fill="#2a78d6"/>
+<text x="920" y="152" font-size="14" fill="#0b0b0b">국산 (제조 허가)</text>
+<rect x="1020" y="140" width="14" height="14" rx="3" fill="#eb6834"/>
+<text x="1040" y="152" font-size="14" fill="#0b0b0b">수입 허가</text>
 <rect x="104.5" y="505.0" width="30" height="40" rx="4" fill="#eb6834"/>
 <text x="119.5" y="569" font-size="13" fill="#52514e" text-anchor="middle">07</text>
 <text x="178.4" y="569" font-size="13" fill="#52514e" text-anchor="middle">08</text>
@@ -71,4 +71,5 @@
 <text x="1174.5" y="300" font-size="14.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">현대 sMEX-A-24 · 코스모 EBPS010</text>
 <text x="60" y="610" font-size="13" fill="#8a897f">EAPS010·EBPS010 = 코스모로보틱스(주) — 의료기기안심책방 허가번호 조회로 확인(2026-09-11). 초기(2007–17)는 수입 위주, 2021년 이후 신규 11건 중 10건이 국산.</text>
 <text x="60" y="668" font-size="13" fill="#8a897f">출처: 식품의약품안전처 의료기기 품목허가 정보 (공공데이터포털 OpenAPI) · 수집 2026-09-10 전수 213,333건 중 분류 필터 · WalkAI LAB · 김지민</text>
+<text x="1120" y="152" font-size="14" fill="#52514e">· 블록 1칸 = 허가 1건</text>
 </svg>
